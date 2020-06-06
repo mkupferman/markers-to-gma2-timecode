@@ -19,6 +19,8 @@ Often it is deisrable to create markers in a digital audio workstation (DAW) aga
 
 ## Installation
 
+[Here is a video](https://www.youtube.com/watch?v=B-IXtyj8Qxs) demonstrating the installation and usage of this script with ProTools and GrandMA onPC.
+
     sh build.sh
     # in Linux/macOS/etc:
     source venv/bin/activate
